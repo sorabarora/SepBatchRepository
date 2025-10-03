@@ -5,6 +5,7 @@ public class Student_1 {
 	public void display1()
 	{
 		System.out.println("Welcome to all of you");
+		System.out.println("My name is Khushi");
 	}
 	
 	public void display2()
