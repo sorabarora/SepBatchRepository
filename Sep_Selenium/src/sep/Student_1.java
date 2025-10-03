@@ -11,6 +11,8 @@ public class Student_1 {
 	public void display2()
 	{
 		System.out.println("Automation is very easy");
+		System.out.println("My name is Sorab");
+		
 	}
 	
 	
