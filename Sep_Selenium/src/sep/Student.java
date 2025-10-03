@@ -15,6 +15,11 @@ public class Student {
 		System.out.println("Automation is very easy");
 	}
 	
+	public void display3()
+	{
+		System.out.println("Welcome to the future");
+	}
+	
 	public static void main(String[] args) {
 		
 		Student deepak=new Student();
